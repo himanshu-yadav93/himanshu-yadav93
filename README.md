@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m pursuing B.Tech from NIT PATNA<br>⚡ Specialization: Electrical Engineering<br>🤝 interests: content writing<br>🌱 I’m currently learning Blockchain development & Electronic system<br>
+🔭 I’m pursuing B.Tech from NIT PATNA<br>⚡ Specialization: Electrical Engineering<br>🤝 interests: content writing<br>🌱 I’m currently learning Blockchain development, Electronic system, Data Analytics<br>
 
 
 ## 🌐 Socials:
